@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-sharding-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "faker": "^6.6.6",
+    "moment": "^2.29.4",
+    "mongoose": "^7.2.2"
+  }
+}
